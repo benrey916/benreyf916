@@ -5,19 +5,19 @@
     --charizard1: #fac;
     --charizard2: #ddccaa;
     /* --charizardfront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Software%20Developer.JPG'); */
-    --charizardfront: url('../images/certificate.jpg');
+    --charizardfront: url('../images/exp/exp1.jpg');
     --pika1: #54a29e;
     --pika2: #a79d66;
     /* --pikafront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Frontend%20Developer(React).JPG'); */
-    --pikafront: url('../images/certificate.jpg');
+    --pikafront: url('../images/exp/exp2.jpg');
     --eevee1: #efb2fb;
     --eevee2: #acc6f8;
     /* --eeveefront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Go.JPG'); */
-    --eeveefront: url('../images/certificate.jpg');
+    --eeveefront: url('../images/exp/exp3.jpg');
     --mewtwo1: #efb2fb;
     --mewtwo2: #acc6f8;
     /* --mewtwofront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Python.JPG'); */
-    --mewtwofront: url('../images/certificate.jpg');
+    --mewtwofront: url('../images/exp/exp4.jpg');
   }
   
   
